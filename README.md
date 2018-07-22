@@ -2,4 +2,5 @@
 
 Kekskeneräinen versio klassisesta "Asteroids" arcadepelistä. Ohjelmoitu ainoastaan Python Standard Libraryn työkaluilla.
 
-[img]https://i.imgur.com/OovHHmH.png[/img]
+![valikko](https://i.imgur.com/OovHHmH.png)
+![peli](https://imgur.com/TLN7j3f.png)
