@@ -1,4 +1,4 @@
-###asteroids
+## asteroids
 
 Kekskeneräinen versio klassisesta "Asteroids" arcadepelistä. Ohjelmoitu ainoastaan Python Standard Libraryn työkaluilla.
 
